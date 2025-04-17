@@ -8,3 +8,5 @@ https://fastapi.tiangolo.com/
 - .\.venv\Scripts\activate
 - pip install fastapi uvicorn
 - pip freeze > requirements.txt
+
+![image](https://github.com/user-attachments/assets/5216f789-4f57-424d-9196-b1c771def61f)
