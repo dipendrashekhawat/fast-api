@@ -12,4 +12,10 @@ https://fastapi.tiangolo.com/
 - pip install fastapi uvicorn
 - pip freeze > requirements.txt
 
+## To run the file
+
+- uvicorn index:app --reload
+
+# Swagger Definition
+
 ![image](https://github.com/user-attachments/assets/5216f789-4f57-424d-9196-b1c771def61f)
