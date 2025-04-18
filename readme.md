@@ -1,5 +1,8 @@
+# FastAPI
+FastAPI is a modern, fast (high-performance), web framework for building APIs with Python based on standard Python type hints
+
 # Python Fast API Example
-This is just to demonstrate how to leverage fast-api framework to build API quickly.
+This is just to demonstrate how to leverage the fast-api framework to build an API quickly.
 https://fastapi.tiangolo.com/
 
 ## New project startup commands
